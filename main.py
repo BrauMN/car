@@ -5,11 +5,11 @@ class Car:
 		self.color = color
 		print ("auto nuevo creado")
 
-	def set_brand(self,brand):
+	def set_brand(self,brand)
 		self.brand = brand
 		print ("la nueva marca es " + self.brand)
 	
-	def get_brand(self):
+	def get_brand(self)
 		print ("la marca actual es " + self.brand)
 
 def main():
